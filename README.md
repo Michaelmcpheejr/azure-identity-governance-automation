@@ -1,4 +1,4 @@
-Azure Identity Governance Automation Suite
+Azure Identity Governance Automation
 
 Automation tools for Cloud Security, IAM, and GRC assessments in Microsoft Azure.
 
